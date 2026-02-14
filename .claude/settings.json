@@ -45,7 +45,8 @@
     "autoAllowBashIfSandboxed": true,
     "allowUnsandboxedCommands": false,
     "network": {
-      "allowLocalBinding": true
+      "allowLocalBinding": true,
+      "allowOutbound": true
     }
   }
 }
